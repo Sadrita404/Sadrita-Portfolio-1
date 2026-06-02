@@ -1,4 +1,6 @@
+## https://sadritaneogiportfolio1.vercel.app/
 
+## http://www.sadrita.xyz/
 
 ## 🚀 Getting Started
 
@@ -6,8 +8,7 @@ To run the project locally:
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/AntoineW/AW-2025-Portfolio.git
-cd wodniack-portfolio
+
 
 # 2. Install dependencies
 npm install

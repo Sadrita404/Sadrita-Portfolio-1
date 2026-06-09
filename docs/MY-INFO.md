@@ -16,7 +16,7 @@ Initials:    UY
 
 ```
 Email:        sadritaneogi@gmail.com
-Website URL:  https://uydev.id.vn
+Website URL:  https://sadrita.in
 ```
 
 ---
@@ -24,10 +24,10 @@ Website URL:  https://uydev.id.vn
 ## Social
 
 ```
-Facebook URL:  https://www.facebook.com/uyledev/
-LinkedIn URL:  (not set)
+Facebook URL:  
+LinkedIn URL:  https://www.linkedin.com/in/sadrita-neogi-2a7540376/
 GitHub URL:    https://github.com/Sadrita404
-Twitter/X URL: https://x.com/WalkerVoid58594
+Twitter/X URL: https://x.com/Sadrita404
 ```
 
 ---

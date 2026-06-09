@@ -127,12 +127,12 @@ Text tile 5:  🏆 2 x IOT Challenge
 ```
 Project 1
   Key:    CommandOSS
-  Title:  CommandOSS — Sui Blockchain
+  Title:  CommandOSS 
   URL:    https://github.com/Sadrita404
 
 Project 2
   Key:    ScoopAI
-  Title:  Scoop AI — Hanoi Bowl
+  Title:  Scoop AI 
   URL:    https://github.com/Sadrita404
 
 Project 3
@@ -165,19 +165,19 @@ GitHub URL:    https://github.com/Sadrita404
 
 ```
 Frame 1  caption:  Hackathon night — coffee, code, and chaos ♥
-Frame 2  caption:  Scoop AI Hackathon: Hanoi Bowl, 2025
-Frame 3  caption:  RCode Battle Attended, 2024
-Frame 4  caption:  FPT Entrepreneurial Hackathon, 2023
+Frame 2  caption:  Scoop AI Hackathon: Hanoi Bowl
+Frame 3  caption:  RCode Battle Attended,
+Frame 4  caption:  Hackathon, 
 Frame 5  caption:  Vibe coding at CommandOSS
 Frame 6  caption:  Early dev days — where it all started
 Frame 7  caption:  Building on Sui Blockchain
-Frame 8  caption:  My setup, 2024
+Frame 8  caption:  My setup, 
 Frame 9  caption:  The CommandOSS crew
 Frame 10 caption:  Side project days
 Frame 11 caption:  Old portfolio — cringe but proud
 Frame 12 caption:  That one project that never shipped
-Frame 13 caption:  Current portfolio, 2025
-Frame 14 caption:  Coffee & code ♥
+Frame 13 caption:  Current portfolio
+Frame 14 caption:  Coffee & code 
 ```
 
 ---
@@ -207,13 +207,12 @@ CTA line 2:  Connect
 ## Page metadata
 
 ```
-Page title:        Sadrita — SWE Portfolio 2026
+Page title:        Sadrita — Portfolio 
 
-Meta description:  Software Engineer based in Vietnam. Building
-                   on Sui Blockchain at CommandOSS.
+Meta description:  Software Engineer & Loves Electronics
                    Feel free to connect
 
-OG image filename: uy-portfolio.png
+OG image filename: 
 ```
 
 ---

@@ -131,3 +131,5 @@ dist
 
 # Astro
 .astro/
+.vercel
+.env*.local

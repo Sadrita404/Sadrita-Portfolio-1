@@ -1,6 +1,6 @@
 ## https://sadritaneogiportfolio1.vercel.app/
 
-## http://www.sadrita.xyz/
+## http://www.sadrita.in/
 
 ## 🚀 Getting Started
 
